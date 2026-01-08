@@ -75,13 +75,13 @@ Visualizer responds instantly to audio levels
 
 (No audio input – visualization inactive)
 
-![Mic OFF](./screenshots/mic-off.png)
+![Mic OFF](./Frontend/circular-audio/screenshots/mic-off.png)
 
 🟢 Mic ON
 
 (Live audio visualization from microphone)
 
-![Mic ON](./screenshots/mic-on.png)
+![Mic ON](./Frontend/circular-audio/screenshots/mic-on.png)
 
 👨‍💻 Author
 
